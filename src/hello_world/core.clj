@@ -29,3 +29,4 @@
   (alter-var-root #'*read-eval* (constantly false))
   (hello-world ))
 
+(load "prob-1")
