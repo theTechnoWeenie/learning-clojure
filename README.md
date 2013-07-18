@@ -10,7 +10,8 @@ Clone, or fork this repo, and compile the code. You may need [leiningen | http:/
 
 This is a very basic example that should evolve over time, but for now will just say hello world.
 
-    $ java -jar hello-world-0.1.0-standalone.jar 
+    $ lein run
+    > Hello, world!
 
 ## Options
 
