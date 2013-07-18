@@ -1,6 +1,7 @@
 # hello-world
 
-This is a sample project to help myself learn clojure.
+This simple clojure project is a collection of solutions to [Project Euler | projecteuler.net]
+This will spoil the fun (of selected problems) if you go digging through the source.
 
 ## Installation
 
@@ -19,11 +20,12 @@ Currently accepts no options
 
 ## Examples
 
-...
+    $ lein repl
+    $ hello-world.core=> (prob-2 4000000)
 
 ### Bugs
 
-...
+* (prob-2 limit) throws an Arithmeticexception for an intoverflow on the first run, but an additional run with the same parameters succeeds.
 
 ## License
 
