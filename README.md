@@ -1,20 +1,20 @@
 # hello-world
 
-FIXME: description
+This is a sample project to help myself learn clojure.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Clone, or fork this repo, and compile the code. You may need [leiningen | http://leiningen.org/]
 
 ## Usage
 
-FIXME: explanation
+This is a very basic example that should evolve over time, but for now will just say hello world.
 
-    $ java -jar hello-world-0.1.0-standalone.jar [args]
+    $ java -jar hello-world-0.1.0-standalone.jar 
 
 ## Options
 
-FIXME: listing of options this app accepts.
+Currently accepts no options
 
 ## Examples
 
@@ -24,12 +24,8 @@ FIXME: listing of options this app accepts.
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Sam Jantz
 
 Distributed under the Eclipse Public License, the same as Clojure.
